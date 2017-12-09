@@ -1,0 +1,11 @@
+	
+
+To use analyzer you have to register at https://pantomath-9636a.firebaseapp.com/ and generate credentials and use those credentials here.
+
+	base Component =        App Secret , App key, Appname
+	var main = new Analyzer("FSweqdUdJXlvc54fW24mdg==","FSweqdUdJXk=","APP_Name");
+	addons base component + true/ false choice to add feature of each page details.
+ 	var decorated = new DecoratedDetails(main,true);
+
+
+In order to use button clicks stats you have to add class Analyzer in html5 buttons.
